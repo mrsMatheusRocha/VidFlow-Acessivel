@@ -1,10 +1,10 @@
-![Imagem de capa do curso. O título é "3486 - Acessibilidade em HTML, CSS e JavaScript" e o subtítulo é "Avaliando e melhorando um projeto com o NVDA".](./thumb.png)
+![Imagem de capa do curso. O título é "3486 - Acessibilidade em HTML, CSS e JavaScript" e o subtítulo é "Avaliando e melhorando um projeto com o NVDA".](thumb.png)
 
 # VidFlow
 
 O VidFlow é uma plataforma de compartilhamento de vídeos.
 
-![Captura de tela do Vidflow.](./vidflow.png)
+![Captura de tela do Vidflow.](vidflow.png)
 
 ## 🔨 Funcionalidades do projeto
 
